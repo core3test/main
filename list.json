@@ -1,0 +1,14 @@
+{
+    "repos":{
+                "test1":"git@github.com:core3test/test1.git",
+                "test2":"git@github.com:core3test/test2.git",
+                "test3":"git@github.com:core3test/test3.git",
+                "test4":"git@github.com:core3test/test4.git",
+                "test5":"git@github.com:core3test/test5.git",
+                "test6":"git@github.com:core3test/test6.git",
+                "test7":"git@github.com:core3test/test7.git",
+                "test8":"git@github.com:core3test/test8.git",
+                "test9":"git@github.com:core3test/test9.git",
+                "test10":"git@github.com:core3test/test10.git"
+            }
+}
